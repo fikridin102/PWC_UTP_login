@@ -1,0 +1,485 @@
+{
+  "cookies": [
+    {
+      "name": "VBCS_METRICS_UBooking_2.0",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/retrievePeriodSettingStaff/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1016_E/1.0/ubooking/booking/staff",
+      "expires": 1755907200.667091,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f3879ba87b6b0a9b1ec0659b88eff35be80485dc72a8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/retrievePeriodSettingStaff/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1016_E/1.0/ubooking/booking/staff",
+      "expires": 1755907200.667959,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_METRICS_UBooking_2.0",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/getStudentEligibility/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1016_B1/1.0/student/validate",
+      "expires": 1755907208.340046,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f3879ba87b6b0a9b1ec0659b88eff35be80485dc72a8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/getStudentEligibility/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1016_B1/1.0/student/validate",
+      "expires": 1755907208.340635,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_METRICS_UBooking_2.0",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/getPropertyList/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1008/1.0",
+      "expires": 1755907204.359146,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f3879ba87b6b0a9b1ec0659b88eff35be80485dc72a8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/getPropertyList/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1008/1.0",
+      "expires": 1755907204.359807,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_METRICS_UBooking_2.0",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/getUserProfile/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1005/1.0",
+      "expires": 1755907203.736604,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f3879ba87b6b0a9b1ec0659b88eff35be80485dc72a8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/services/auth/1.1/proxy/getUserProfile/uri/https/dev-utpoic.integration.ocp.oraclecloud.com/ic/api/integration/v1/flows/rest/OIC_1005/1.0",
+      "expires": 1755907203.738714,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_METRICS_UBooking_2.0",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/resources/data",
+      "expires": 1755907199.105547,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f3879ba87b6b0a9b1ec0659b88eff35be80485dc72a8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0;profile=base_configuration/resources/data",
+      "expires": 1755907199.106204,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_HOURLY_METRICS_C2C310983E5D424B804F0D2F9DFBFCC6",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0/webApps/spacebookingapp-user",
+      "expires": 1755849660.901648,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_METRICS_UBooking_2.0",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0/webApps/spacebookingapp-user",
+      "expires": 1755907199.902262,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f3879ba87b6b0a9b1ec0659b88eff35be80485dc72a8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder/rt/UBooking/2.0/webApps/spacebookingapp-user",
+      "expires": 1755907199.902523,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VBCS_HOURLY_METRICS_C2C310983E5D424B804F0D2F9DFBFCC6",
+      "value": "1",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder",
+      "expires": 1755849663.965248,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "FC1EB2B1BCC6E0C8D185307A03BFE21F",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f387e7f91de2c397ea80411ba8232a2787e934e1abc8",
+      "domain": "oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/ic/builder",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "esctx-eO4NdhQKUjc",
+      "value": "AQABCQEAAABVrSpeuWamRam2jAF1XRQEksnyZPXiLdLqb-PwBzCLh5u7_m9XTajp-Fk4yGJfKd41NqI8XpXNwmUzXkhTE2RT5OVufdZoruH1XVcRyBhirwdPcloqVCRa4ELQJq2ZfwW9Om4IUBCtIkkmUb8nPVbbRwZE8fcUBrrOF6qf4UD7diAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AADSSO",
+      "value": "NA|NoExtension",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SSOCOOKIEPULLED",
+      "value": "1",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1755847823,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-yvg2a21OQ",
+      "value": "AQABCQEAAABVrSpeuWamRam2jAF1XRQEQHRmuWnYqWb9gUKVPBTdQYUuwNvY2cwiCXlKstsDiG5HtX_DwRfSCiEm6-UBk382KHkCEXxYDMENVgCZn1gH-WcY-FiWm7ghv3hkJwiZ52El0bhnejH7aGRywRoYPrx_hebX3ZdKgJ_DRjZFBgSk4CAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "value": "8aa7710a-341f-4ef4-9e65-7c855a279c94",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1787383769.874063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brcap",
+      "value": "0",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1789543764,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "value": "Aqnn74_Z4FROmKN3eqBCs8M",
+      "domain": "autologon.microsoftazuread-sso.com",
+      "path": "/",
+      "expires": 1758439768.607958,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "value": "estsfd",
+      "domain": "autologon.microsoftazuread-sso.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "value": "estsfd",
+      "domain": "autologon.microsoftazuread-sso.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wlidperf",
+      "value": "FR=L&ST=1755847769352",
+      "domain": ".microsoftonline.com",
+      "path": "/",
+      "expires": 1789543769,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHLIGHT",
+      "value": "+007d7549-109a-885e-753a-966c0cc10e24",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "value": "PAQABBwEAAABVrSpeuWamRam2jAF1XRQEKVE7Dww9x4Z2Ffr8WjjSyWhbRb5ucLcaEGZoOJNiyWPv2T_xg3USe77Wud2iqIZ9wlGs00hXPP7u6t09tDCQbgvdORjNMOEtqbu5pj0xksktqcuMRGsmiSHSbNCTsIzhoYdOKyadjb_wpPhzLGxG4v3W1c9mdsCx3neE_8QJrm0gAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-1bNwMVj9JuA",
+      "value": "AQABCQEAAABVrSpeuWamRam2jAF1XRQEicJasEwC6PgrblvB0ksGWD1TJLxG_44eMkR2eJju9hpePDrP3tI-YOi4JySCoM5HvDSnRM4nvj7dVpijKnjHlzvM0Whi_xHYpb4jnrkFJzKYp0Hq8E7qScdXjH8KVG7PVxdq7vMEr0YEMoF24aPd1CAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "value": "ac1d760dfa9a4f3ea901764fc7ed262e",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "value": "id=N&lt=1755847770&co=0",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHPERSISTENT",
+      "value": "1.AXIA43sYhH4D7EGInKFQ_kdkMo6L47UIsipEnL1oiBQipPmGAb5yAA.AgABFwQAAABVrSpeuWamRam2jAF1XRQEAwDs_wUA9P9_vm5Ed7blaEPgnG8T0Zsla6NRmoEpnpYlGZYL6XqjqwJ6A1vsBX1n_TFQLPB2wrfMO-4GUmYotdVT4E3FRvHeJuuz25UZOwk8-tTTcyKUJaFCWMxkHcs10y0lBLiZEuWQdaLasZmt9TYKaaitXwzOli6KzOUO1Upwc7v0GTlYxp_OCzMhfV-UcpDwoLvC4LCOpgjp0CAZfHFZXoj8TebOssut8q2_-87pajuEuxdssSNmBBSYokwNtwy-I0BnIP7SxwVyXtLoDiRsZGSP5U6DAuPVe5nlRfW-42aK0uWMhjtL4ft2w6TytmZZ_dc5jmLFcFlDE-taQfvEbnOrN0KOa1PFriPRlUqwq2suiw4YFRHnV1WTbbeMgt1Y_JYgq-euG-mIR8p8P8lOywA2yli24d0Y4vWLvcUHFEBA5ZWrU6UX5WiaYrsTR6WqbMxiTNaSAt2mfN1Ff1suaLGN3xSTac0m_CWWLy0dNq0v0-lobYvN2UDfOFvWqmv4o3zBWGIwUMVMuLk5fikA8NoMTeWc63juRhqe6di42R9_IEOFm2DmHGG_5QxozTLFK4uS2HYa991_OUjFQiFYLnnoDL05mTQwSOrYmFP6ffIlj29wl2xvAfXlQ_njVDJEX7nO1_lWj5MEZmHhflCRtgS1UZNyB2xRipuOiM7VkDHkXLAskNzGhGPA7c-Rzg",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1763623771.445854,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTH",
+      "value": "1.AXIA43sYhH4D7EGInKFQ_kdkMo6L47UIsipEnL1oiBQipPmGAb5yAA.AgABFwQAAABVrSpeuWamRam2jAF1XRQEAwDs_wUA9P8kbJCASYapoWBkQp4FFJRUPeiW-bFEEOlYDr3NDSJkbNul5Dd7L2KVtAT2TikGktqwvSlWYR8eeiGD",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "buid",
+      "value": "1.AXIA43sYhH4D7EGInKFQ_kdkMo6L47UIsipEnL1oiBQipPmGAb5yAA.AQABGgEAAABVrSpeuWamRam2jAF1XRQENNSOvjFo2cZ7db_6F5M_oqYBdJUrLqYZyxBS9RyDn7UJRjEzqS_KloMp3hkUCH5q3Zmwlq84Md-AmZWWhFQhZhGuIBdWpifzs8i8hiJCqKson_JKHOyh8x81al8G4ZxqEgysLXUCSzQZJIquI_L1HGiF7nad5EGyzM_KsudVwDcgAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1758439771.446532,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CCState",
+      "value": "RWhJS0VIOWU1dGtiZGpWS3JUbHJkd0lUd0UwPQ==",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1756711771.446659,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SignInStateCookie",
+      "value": "CAgABFgIAAABVrSpeuWamRam2jAF1XRQEAwDs_wUA9P9VD2zLUjco0f1BOXeZ5aNLn0k9R1ofduCbRtvCDY13x_xhoaqnrD6PyRDmMCmQAYhJztNRVy8ncWd-GLMIAV0mVBwpPHZFRLXFvf4VHFrryevZ1k-Hvus11ZQLDqilwYVM_tyB7euSs5ezpS62ZrKuw0GjYR_1q0xsEJ01qKUHrJVXGPsZBOi0JwLJeaAQXjPKoSCvrK6vbPrUgBKOgRdHxHCj6tXuJqEaej9YnGAOH10ywUSzdoe6q38_bK1q8eM70BzOqjD2WVeWFyWlJcGmyIUnFmae8S2Bf4ETYEr8",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "value": "AsNabahPEP1JrHzCPEn-n3j_Z1IBAQAAAFMTOuAOAAAAepfymQEAAABZEzrgDgAAANRddDkBAAAAWRM64A4AAAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1758439771.446841,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "typ7YvDlW+VxkHih7cUV2C|1755847765861|1755847770479",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1755849570,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MC1",
+      "value": "GUID=c2e6df3cb2df449686203aab90568b17&HASH=c2e6&LV=202508&V=4&LU=1755847770894",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1787383771.015168,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MS0",
+      "value": "8781cdace06743c28a83ee58dc1c4733",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1755849571.01533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_OCIS_2",
+      "value": "Sk5DmPC4g/aEFOkNPjo3oFKqbM8nre6/kE0NkbZybmo8YuNSAp6DNdo/tsNMRYk~tg+j5e4fVVt9UPECZw/H7CxSvFCZEN8oto0SexunA/U",
+      "domain": "idcs-edb61f5cde0449b585c4fb2e6ff004c4.identity.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_OCIS_1",
+      "value": "DcQ3KbZejtCGb2d4wTbwB/2uvtF/vIqqhvwlixWbJlCmqP3vzMPCJ6Ro8VQZUv/J6KmkzHFIAWgHmjxhJcFmiotZ+q25eZAl2mmWi9jz8N49/b9WBLiqbf3gmHsIWKIst9ALnxGTdNwQw+Y98ZV9gOF7Xejte9s3yyyL0cCZYGB8tJUnbgxm0CVO306r6y17jq0mwa7lYeVkN4gnkyHrN9ztvgSrmSxlwBF5wTt6Z4OjgPktgJQYkbmowShpVl0Hed+BQrHFvskIx9Sl8cC0+TeWLf0GxiyDRgJ+huzXlIG6ye+GxzPRv/+/1M0VJ0YHAQsb0vKyaIEcvx/lZNEPn6VXrWaEEeTaxukgIhzT2Pb3zLmwhFFfkwubrdQfIci5eOmQ1SZHjkS/GNKFHvAnKQMKrOAkgNfEAN3zGI0MGx3juI8I9uQn8H6o2bUXYo+HhupKv4v1H5D20sQQOiOGUh5ct1Fp+vOs7pq67qzEJfthJziYMSW7ld814f0omkjPjOYaLaHLIxyuoaEpls56WxT3Tbetj+J25Z/hGR6Um6TOzmr/yZKK1OcGNG/k+hwL+cpY3oZ7STp/jo95eO47S+f4llKtWFyVu3s/jxJIyvwKEondnwzdiZ3S6DiJ1HlZC1Nis0G4CzvLhAVXZErBPBiZRg5A+lgsFwYOzPVJOIlThAV6wH8dwgNLld3FHi/UyvExKbLHF9/YZ3lHxwXn3lYfAW44ADmEw7FueNESwNn/tgIN5cCGsYM2rzE6hk4/8gVbE8FzeTy44MuO6D9R+Jgq3+fTNL+nl7LsDMPpOnXq3O1byvOWQQmbxtZUqlD+r+H6cbAod6r2iPyKTdjARNJYe0UkOWLDLdL589xGr9savDeAyeJudWLGDqaPELgf49k9fVi5M4hr8bYUcCvAcwJC4LU3hf3B8rSdWFVbnG9s3LKZpxDgzd7r7rLN3XXWATSNgfg6mMCe9PI3urQG9dw/Ij9sNziOkmZNJzGYlLyq3NjR6qaDYgfa+x/xfWtSLgZnrvy1fO/38oWVkWVlGmyJevTw1W4Ti9amxSktV3eHR/kkRz5sW0eZA33W7yEaltkts9Mp/TyMoA1kFF2OOXdGDYRE2Yp/kL54UqsMl2Wz50KR+gwA24m8zyFDdQOKRCSQu9l/JOvSsjyvgaVREros3M/USqLceUlU9geriBg5okfFK8NurmCvu78jwlQsZEMpeAQdD0AcRKDs0D0lQrU9F0rc6SMpRbRNvQEulPdqJe/0xNU7tqytf+tQ5E6RHIFS9Y3f7dp0Zg1xNupMZi0llMjO7NF6lvAaXSa213EvCAOTadWRNTIzmNoCb0iqYTfXsuV7ehr9o48nV+WF0yijXJU+BVtt1fAhGnfP/Z5GYNSQo/vB9NTf+7fb1B8eJ7NPV+JwytH/GNzKR569YQTBLCO5RBMPDizFw/43a04mzeh4Ul1K2yJDxvgNQu0Xtl8TDU+SS+Jbw3gSFiLnBQldpyZ9s4DEnjzP8qApzw2NKthkCydO5eSCv9KT4kH4fKLlBj600k4Q2TESPSWhzCVHZXO91k1Om+cX4uvkoJy9jGckefoz+CjpbNTQpX20MgRIgc9A07yvg1dVHWSED3sFv56VpSfLolnoyrfNtY6TO3zGhCuDnm44HO38UKnVRUGC3mIZ2NBqMdY92ve3S/NlrgoV+Q3rDxMJvdDj6sMWYUxrn4LtdACFMZqP3T5mOu8nOJdLcKTZV6wLCp+B20fmzud3u7HrNNF8t5Kulvl0hvFcsDwQIyxVAu1wUUMGhWtLHQg7rTNCJ9qwZO4iOlUo1pP5Ab9gQerfsiP8QNq9zIrSO21wPx4y7qkp1F5doGKWupF17fX2aI6fa+oJzY0d4uHqR2L8PReBRAyZnzbx",
+      "domain": "idcs-edb61f5cde0449b585c4fb2e6ff004c4.identity.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_OCIS_CG_SESSION_idcs-edb61f5cde0449b585c4fb2e6ff004c4_oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com_1",
+      "value": "5goAAKwKAAAQIKwKAACSCgAAEAAOkNxTNIZbl-JITB-sLOTVYQ-8dV9pzTiIOBQNzHFDpLbNf0bn7HJ0BdIPI7k-Maf4mOrixY9qYxdTN9icCJJN7bq0BkfVZJn7vkqwUX6B6AUVZ0WKTkYDB__B-HlAsAnpLFy_jkp-_uKQW5oea4FaMFJ3dh98y7qKDXvSyQ8boPT2oJiTHbgJglg5IaP7ekj3T5_HCqnAWgZGrTWriHpRXxK-TfcasfhM8KSC8JUfrVGSbizaiRfi8DDoTOyA5pce_nxxmN__w6SbSwJZ6xGrAIrQbgj91vQDJttmn-bIjJ_-mqGFL6k2EbRo2OTWpxcvVCXamgrNIpF6NCF6wLC4DxD4X4edP-xoza0FoT5mziX5z1ZUTxE8f3UZadjsHENZiHZPdRQrtAoUnqmnQPVXqd6YD0SegUb8i9NXWo9D9bcsz7KtpslOaersFoJQmco0B7Z39U2kaAOLXe6swjy4VLYZ9b1KUFGqIP_bDf2cjbiDjiqhptOJfR4b7avHzhGlagsuBpiMdJfejbhFWagMLeToWd2t4PQ12pC6-LrAZzopXc3YCJ00yWho3BhFXwQFDvbGXBZx26wAFllls7Q5K3uklxRuUTyPf3k4XkhTBhtbJj9QahKQwEyFMZ2-EenYlVeRm_AffIR_Z2cIw6PpuqcAbo1wThIya_QDv_LquzLdza3PM0PqMjcCIfnmJhcEp-lywpCmDhcteEAdidf-Z3tE0wleHpjp7JqPn7zfL45aqZbQYBl5IA9_riPUBC5dawXKk6N3Oh1xx6mtKSbEW2Rk1E-j5dV0Sl8ssDlKEhNMOZSWZSWdyhzhK-2zXnzaE9DNuPdES_wVEtej8g_nbBd7IptU8-Xcqk6HJdS-kFd_oWEf-4wEdHtrdERhjaNyPOe4Pd2I3-Ti_7eqCMYuC4wssISzxeNfGB_JyiDiJOrFEJNsfBlVBZJPjFFr7ytwIhDTFCiX7NSguLTUZaFRk8rBeb1NTBKf0Sj9-ZrzA4GCLSw5t7rfxp5eYI7r02nRg-HawiQli2cMS8rDCsKRO79YSoP1AEpcPGqr9KWxJpKQEJaaIno2Uo8phCefy2mI2xrHb6i-YnsR6L4NalHDjqA3qe8i0HPkLvB5DKgHLDr0GxGCOKoG6fCfA6mvDG-Nz_Jq1vieAug6j-DSqC9dE9U-6P_2Gv_IDY7urknO2FxmkRH4OUVSijo4sUvY6NDTHRT6c6uR0IdBepXiea4H-WH6uUKBTawp62238wqEE3HBSj4ZiHBCxqblCrxlr_VxekYmYze26bqCKMgXs4gz-lJ3QPV1Sk2qG8TwarZF6RZtWzT_LbI-2BCl_UOvF1dMIHjoUBd2uEM4BWeMj5velVAijxbToS8EmTOoRLefxJKS9aaEVfAQI1jzSqL-rmYNgzThwKXLjcjIJ_tC0oFJKX3NSK9GLW1HN395kMYme4pSMq4oQhBHCkb7WDSsdsybHVWQO21Jc9yp20j-di_l1LDJSseiXuVq1teGOIp8SKVfg4B43OyExA4ktw3L88rOqSmlHfKsj-z6GSdpTeMzRwUrZpjHliXz8HMK1giQorC-nQcOLYtr2wP3LyLzzcSmtMSiHGj9XqQCQkT_o6Yh6aWBshBQZMuyqHHDW35WjUXOxNR83DPJyPuMWOwlKFReYxZ9i8lHVBesn-XExk2Uv3_S23BSbF7KFJ7iDN1FX0Dz39eBfynSheUR_uwCsXDPRypcEwFAgXWAZml7YZaiNI9vmgtJ_ecDF6M7DXTtZQvaBBkYaQESJzJxgbRGFgxfjiBpUGspGks2Hi_G_CluRe6CfAiRM6u9dWZqu8GcjaChV4uv6Eu5OYSJEdeAqDVHZI_6hW9lrYA9urqGA4PfvjWdLxDR06SLv-Cxdcl5ZVaxEkUWUkX3_qqQnyo4vQ3CG-GPzbCJg7H0Bm8JrOuVsE7uYg5gBTERfTjSlrbGardnxvWd6_GgBmbZI4wCP1VWHgef5E4XBmMsqAEs4MfSjLdbIXMijYVsnOIPnuI9H6B041cI2IpAOc7G1qseSHAwGQ4mhzFKDhFMLJqi1LwFCeXPH6oZ-yj2WuKq7V0mzCpe7RYNVwmID8BXgVPt927IcrGeQH7iiwA7m4Rc9IEOIqBneIvcvOqm5HRdCX2ibbL6Xs9si5cXl2omxoYT05Q61CElKWpm2xknAqhD43rLM1sWMrHLb3upmmZNqIbmfT41Rsq_gdOmXfCETPacjTio17Ep3-w-RK66lhR7HSYDmcStNX7iwVNZcEzsRAwVil6s2NlkBT5YzHiT_5azUyfBJg4aGCfnhGmSFS6sIOluj48-F_IPC1tnRro3VaEHDfgG7J9p7yuNp1KTBCMGnGkBtQqZx-wWaax8vojmOvlgtmPQ8OobiU3ELbQQVTpzxa2D9BVqkcBErwIrw5NUZEixx_H7PO4JhUat2ftPT2R6tk1dHOsBkXzLiADux0EmGOAICpZE0d9uSWTV-Qk1N9N0sR9bfvlCFm2D_5SGIaAqCspLN7K1Z-A_7-x1NOBEkpC-vYQarLNsoAuSbffhcvWZorw7AYI3Yhl9HVkWTQkDzELfslVbfCJqIiDaicbeql_BuGN1OPa-mOottgyXGCNR43oMed05l3tmGoCLaRf8_cu-_2MlefAGypuQA26-Hi0S8kGtowalYfSfvB3JSQhEMyQ_7YU3Q0OLKjQAMPhMlti8GFAGnVglzy-zJNGpvzE-uX-bzWhBiB9vTMc8sXCJLQE42d-cYwHUdO93UnfyVLHn27yDIGizz9CLrtx",
+      "domain": ".oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_OCIS_CG_SESSION_idcs-edb61f5cde0449b585c4fb2e6ff004c4_oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com_2",
+      "value": "Fp1_A3gp5u10bvA3nGu1I0LvJXAu0xgAW6qDJ-CS6dlOkWGEQmGnImhjCi0ltxYzmHMlpOIcZN0GPSfsMtfDwoyVVgZASOiOggC3qM-8tFvzD-Y-rIdK0vKHYnXBGQNZAkd1hw3FNBunNt4tqxo7rGc9lsGHiZ_5CqtIDzHetw3a56eRqfisC-M4IAKrDOrFtjXFu350vQmYYErYXGNJOJmUd7_fmG4j8aUEu-_mW2CnSPuJoKvJPpQ6hv5fxbSDJiSo_f0wTU_DfG0NYRb7OwUy0p7Qo5iYIysd_d1Op3DhwHj_G4DSbWxp0VXsO0Wkq6xa-SujtnZvufMRZRZu1iDQhlT3Khk1Uh_lIYWi1i8DnLRl7TKYoopnDG-UePyZ4bEZyCBiaJWLIY_CG8a8WnHghyqOl1-aVOT3hDXanl7k5jARIBW2UcRzPemCSNFiG3voKk2ndNXIyh8K0pziHS5rVo0Kx7OM9pWEWOPQwZEvZFO5A_r_dIPxZeJLaHmsMh8vJWi_b1E5i-lZrwi1ACahGVSlFjaKEYM-NiCyO7vn6zGXEA1Q4hKgJKmNfC8A1A6Rd2a0l5sLwdLC9pFQvTQJijX0ujXTmvvGiBeZKipzLznTam7tGiE1Y4QpGThOhctS6_EdWPMDbwQUFCM6ppTHZvPeOI743kRJ1IhZida5CmBL5UXwgKygvv9hraK4yKIOT4-NWGzpVKLl1VXfWTaLN4dcd_LTTMgH7iOREirynSHFyvbvW_AvtsbY8h1G-LPU5AlbEICvGBsIrVcBo5geS71m19rC-SfmXZBKnqrBec-Ruf8A1MU6UbKwVkVY-3MJERSqffAAPENaTVm1vM7zbbI8jhi_ITWWB1nHT34LJ553eIZWtsmO1jxTjXrhzwlzV",
+      "domain": ".oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "X-Oracle-BMC-LBS-Route",
+      "value": "8fa3d7186e9722d458304c505965175514a2f38799055eea3f627cfbcfd5bd865a3c574f8adca66d",
+      "domain": ".oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://oic-vbcs-dev-vb-frk0uwpiewks.builder.eu-frankfurt-1.ocp.oraclecloud.com",
+      "localStorage": [
+        {
+          "name": "_pouch_check_localstorage",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

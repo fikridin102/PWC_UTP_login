@@ -1,0 +1,41 @@
+{
+  "name": "utp_pwc_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "metrics": "node metrics-server.js",
+    "post-metrics": "node postprocess-metrics.js",
+    "debug": "cross-env ENV=prod PWDEBUG=1 DEBUG=pw:api cucumber-js --config=config/cucumber.js",
+    "pretest": "ts-node src/helper/report/init.ts",
+    "test": "cross-env ENV=prod FORCE_COLOR=0 cucumber-js --config=config/cucumber.js",
+    "posttest": "ts-node src/helper/report/report.ts",
+    "test:failed": "cucumber-js -p rerun @rerun.txt",
+    "report": "node generate-report.js && ts-node reporters/html-reporter.ts",
+    "test:all": "npm run metrics & npm run test && npm run report && npm run post-metrics",
+    "test:login": "cross-env ENV=prod FORCE_COLOR=0 cucumber-js src/test/features/login.feature --config=config/cucumber.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.1.0",
+    "@playwright/test": "^1.54.2",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.2.1",
+    "@types/papaparse": "^5.3.16",
+    "cross-env": "^10.0.0",
+    "fs-extra": "^11.3.1",
+    "multiple-cucumber-html-reporter": "^3.9.3",
+    "playwright": "^1.54.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "papaparse": "^5.5.3",
+    "prom-client": "^15.1.3"
+  }
+  
+}

@@ -1,0 +1,88 @@
+{
+  "id": null,
+  "title": "Playwright Test Monitoring",
+  "tags": ["playwright", "cucumber", "testing"],
+  "timezone": "browser",
+  "schemaVersion": 38,
+  "version": 1,
+  "refresh": "10s",
+  "panels": [
+    {
+      "type": "graph",
+      "title": "Test Execution Duration",
+      "datasource": "Prometheus",
+      "targets": [
+        {
+          "expr": "playwright_test_duration_seconds",
+          "legendFormat": "{{test_name}}",
+          "interval": ""
+        }
+      ],
+      "xaxis": {
+        "mode": "time",
+        "show": true
+      },
+      "yaxes": [
+        {
+          "format": "s",
+          "label": "Seconds",
+          "logBase": 1,
+          "show": true
+        },
+        {
+          "show": true
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Total Tests Run",
+      "datasource": "Prometheus",
+      "targets": [
+        {
+          "expr": "sum(playwright_tests_total)"
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Passed Tests",
+      "datasource": "Prometheus",
+      "targets": [
+        {
+          "expr": "sum(playwright_tests_passed)"
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Failed Tests",
+      "datasource": "Prometheus",
+      "targets": [
+        {
+          "expr": "sum(playwright_tests_failed)"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "utp-login;successful-login-using-csv-credentials",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Successful login using CSV credentials",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1289934700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Student access the URL given",
+            "match": {
+              "location": "src\\test\\steps\\login.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5709426900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Student login based on their credentials",
+            "match": {
+              "location": "src\\test\\steps\\login.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 19771724000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Student reached Ubooking Home Page",
+            "match": {
+              "location": "src\\test\\steps\\login.ts:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 844090100
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 395966700
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "utp-login",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "UTP Login",
+    "tags": [],
+    "uri": "src\\test\\features\\login.feature"
+  }
+]
